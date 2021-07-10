@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a Masters in Information Management candidate at University of Illinois - Urbana Champaign.
+I am Saurabh, a Masters in Information Management candidate at University of Illinois - Urbana Champaign.
+
 
 
 <!--
