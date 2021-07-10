@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Masters in Information Management student at University of Illinois - Urbana Champaign.
+I am a Masters in Information Management candidate at University of Illinois - Urbana Champaign.
 
 
 <!--
